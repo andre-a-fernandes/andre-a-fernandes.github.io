@@ -1,6 +1,6 @@
 ---
 layout: archive
-title: "Academic and Professional Curriculum ["[PDF]"](https://andre-a-fernandes.github.io)"
+title: "Academic and Professional Curriculum"
 permalink: /cv/
 author_profile: true
 redirect_from:
@@ -8,6 +8,9 @@ redirect_from:
 ---
 
 {% include base_path %}
+
+[Updated CV PDF in English](https://andre-a-fernandes.github.io/files/CV_EN)
+[Updated CV PDF in Portuguese](https://andre-a-fernandes.github.io/files/CV_PT)
 
 Education
 ======
