@@ -13,8 +13,7 @@ Updated CVs in PDF format
 =====
 
 [English CV](https://andre-a-fernandes.github.io/files/CV_EN)
-<p>&emsp&emsp</p>
-[Same CV in Portuguese](https://andre-a-fernandes.github.io/files/CV_PT)
+<p> &emsp &emsp </p> [Same CV in Portuguese](https://andre-a-fernandes.github.io/files/CV_PT)
 
 Education
 ======
