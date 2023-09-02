@@ -7,7 +7,7 @@
 
 # Site Settings
 locale                   : "en-US"
-title                    : "My personal page - André F."
+title                    : "My personal page.."
 title_separator          : "-"
 name                     : &name "André A. Fernandes"
 description              : &description "MSc. Student and Researcher @ Instituto Superior Técnico, Lisbon"
@@ -85,8 +85,8 @@ author:
   bio              : "MSc. Student and Researcher @ IST Portugal"
   location         : "Lisbon, Portugal"
   employer         :
-  pubmed           : "https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
-  googlescholar    : "http://yourfullgooglescholarurl.com"
+  #pubmed           : "https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
+  #googlescholar    : "http://yourfullgooglescholarurl.com"
   email            :
   researchgate     :  # example: "https://www.researchgate.net/profile/yourprofile"
   uri              :
