@@ -10,6 +10,7 @@ redirect_from:
 {% include base_path %}
 
 [Updated CV PDF in English](https://andre-a-fernandes.github.io/files/CV_EN)
+
 [Updated CV PDF in Portuguese](https://andre-a-fernandes.github.io/files/CV_PT)
 
 Education
