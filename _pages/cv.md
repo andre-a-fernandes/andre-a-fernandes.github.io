@@ -9,9 +9,12 @@ redirect_from:
 
 {% include base_path %}
 
-[Updated CV PDF in English](https://andre-a-fernandes.github.io/files/CV_EN)
+Updated CVs in PDF format
+=====
 
-[Updated CV PDF in Portuguese](https://andre-a-fernandes.github.io/files/CV_PT)
+[English CV](https://andre-a-fernandes.github.io/files/CV_EN)
+&emsp &emsp
+[Same CV in Portuguese](https://andre-a-fernandes.github.io/files/CV_PT)
 
 Education
 ======
