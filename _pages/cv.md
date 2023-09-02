@@ -9,28 +9,27 @@ redirect_from:
 
 {% include base_path %}
 
-Updated CVs in PDF format
-=====
+## Updated CVs in PDF format
 
-[English CV](https://andre-a-fernandes.github.io/files/CV_EN) [Same CV in Portuguese](https://andre-a-fernandes.github.io/files/CV_PT)
+I greatly encourage reading this document format over the information in this webpage (less frequently updated).
+
+[English CV](https://andre-a-fernandes.github.io/files/CV_EN) 
+
+[Portuguese CV (essentially the same document)](https://andre-a-fernandes.github.io/files/CV_PT) 
 
 Education
 ======
-* B.S. in GitHub, GitHub University, 2012
-* M.S. in Jekyll, GitHub University, 2014
-* Ph.D in Version Control Theory, GitHub University, 2018 (expected)
+* **BSc. in Electric and Computer Engineering** - University of Lisbon, 2021
+* **MSc. in Electrical and Computer Engineering** - University of Lisbon, 2023
+  * Major in Control, Robotics and Artificial Intelligence
 
 Work experience
 ======
-* Summer 2015: Research Assistant
-  * Github University
+* **June-September 2023: Research Assistant**
+  * Instituto Superior Técnico - University of Lisbon
   * Duties included: Tagging issues
-  * Supervisor: Professor Git
+  * Supervisors: Professor João Paulo Costeira and Dr. Manuel Marques
 
-* Fall 2015: Research Assistant
-  * Github University
-  * Duties included: Merging pull requests
-  * Supervisor: Professor Hub
   
 Skills
 ======
