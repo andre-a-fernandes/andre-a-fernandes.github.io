@@ -15,9 +15,9 @@ profile](https://www.linkedin.com/in/andre-a-fernandes/){:target="_blank"} over 
 
 <div>
   &emsp;
-  <a href="https://andre-a-fernandes.github.io/files/CV_EN" target="_blank" class="btn btn-primary" role="button">English CV</a>
+  <a href="https://andre-a-fernandes.github.io/files/CV_EN.pdf" target="_blank" class="btn btn-primary" role="button">English CV</a>
   &emsp; &emsp;
-  <a href="https://andre-a-fernandes.github.io/files/CV_PT" target="_blank" class="btn btn-primary" role="button">Portuguese CV (essentially the same document)</a>
+  <a href="https://andre-a-fernandes.github.io/files/CV_PT.pdf" target="_blank" class="btn btn-primary" role="button">Portuguese CV (essentially the same document)</a>
   &emsp;
 </div>
 
