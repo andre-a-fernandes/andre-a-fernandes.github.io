@@ -12,10 +12,7 @@ redirect_from:
 Updated copies of my Curriculum Vitae can be downloaded below. I greatly encourage reading this document format or my [LinkedIn 
 profile](https://www.linkedin.com/in/andre-a-fernandes/) over the information on this webpage which is less frequently updated.
 
-div {
-     margin: 2em;
-    }
-      
+
 <div>
   &emsp;
   <a href="https://andre-a-fernandes.github.io/files/CV_EN" class="btn btn-primary" role="button">English CV</a>
@@ -23,6 +20,9 @@ div {
   <a href="https://andre-a-fernandes.github.io/files/CV_PT" class="btn btn-primary" role="button">Portuguese CV (essentially the same document)</a>
   &emsp;
 </div>
+
+<p></p>
+
 
 Education
 ======
