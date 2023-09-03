@@ -12,12 +12,6 @@ redirect_from:
 Updated copies of my Curriculum Vitae can be downloaded below. I greatly encourage reading this document format or my [LinkedIn 
 profile](https://www.linkedin.com/in/andre-a-fernandes/) over the information on this webpage which is less frequently updated.
 
-<style>
-  div {
-       margin: 2em;
-      }
-</style>
-
 <div>
   &emsp;
   <a href="https://andre-a-fernandes.github.io/files/CV_EN" class="btn btn-primary" role="button">English CV</a>
@@ -49,3 +43,9 @@ Work experience
   * Duties included: Tagging issues
   * Supervisors: Professor João Paulo Costeira and Dr. Manuel Marques
 
+
+<style>
+  div {
+       margin: 2em;
+      }
+</style>
