@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-Welcome! I'm a MSc. student and researcher in the Department of Electrical Engineering at [Instituto Superior Técnico](https://tecnico.ulisboa.pt/en/) in Lisbon, finishing my master thesis on "...", an overall AI enthusiast... 
+Welcome! I'm a MSc. student and researcher in the Department of Electrical Engineering at [Instituto Superior Técnico](https://tecnico.ulisboa.pt/en/){:target="_blank"} in Lisbon, finishing my master thesis on "...", an overall AI enthusiast... 
 
 *WIP*
 
