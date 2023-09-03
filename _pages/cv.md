@@ -9,7 +9,7 @@ redirect_from:
 
 {% include base_path %}
 
-Updated copies of my Curriculum Vitae can be downloaded below (in English or Portuguese). I greatly encourage reading this document format or my [LinkedIn 
+Updated copies of my Curriculum Vitae can be downloaded below. I greatly encourage reading this document format or my [LinkedIn 
 profile](https://www.linkedin.com/in/andre-a-fernandes/) over the information on this webpage which is less frequently updated.
 
 * [English CV](https://andre-a-fernandes.github.io/files/CV_EN) 
