@@ -86,8 +86,8 @@ author:
   bio              : "MSc. Student and Researcher @ IST Portugal"
   location         : "Lisbon, Portugal"
   employer         :
-  #pubmed           : "https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
-  googlescholar    : "http://YourFullGoogleScholarUrl.com"
+  #pubmed          : "https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
+  googlescholar    : #"http://YourFullGoogleScholarUrl.com"
   email            : "andre.a.fernandes@tecnico.ulisboa.pt"
   researchgate     :  # example: "https://www.researchgate.net/profile/yourprofile"
   uri              :
@@ -100,17 +100,17 @@ author:
   github           : "andre-a-fernandes"
   google_plus      :
   keybase          :
-  instagram        : "andre-a-fernandes"
+  instagram        : "andre.a.fernandes"
   impactstory      : #"https://profiles.impactstory.org/u/xxxx-xxxx-xxxx-xxxx"
   lastfm           :
-  linkedin         :
+  LinkedIn         : "andre-a-fernandes"
   orcid            : "http://orcid.org/YourORCIDUrl"
   pinterest        :
   soundcloud       :
   stackoverflow    : # http://stackoverflow.com/users/123456/username
   steam            :
   tumblr           :
-  twitter          : "ReplaceThisTwitterHandle"
+  twitter          : #"ReplaceThisTwitterHandle"
   vine             :
   weibo            :
   xing             :
