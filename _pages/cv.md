@@ -12,6 +12,10 @@ redirect_from:
 Updated copies of my Curriculum Vitae can be downloaded below. I greatly encourage reading this document format or my [LinkedIn 
 profile](https://www.linkedin.com/in/andre-a-fernandes/) over the information on this webpage which is less frequently updated.
 
+div {
+     margin: 2em;
+    }
+      
 <div>
   &emsp;
   <a href="https://andre-a-fernandes.github.io/files/CV_EN" class="btn btn-primary" role="button">English CV</a>
@@ -20,16 +24,6 @@ profile](https://www.linkedin.com/in/andre-a-fernandes/) over the information on
   &emsp;
 </div>
 
-<div>
-  <!--
-  &emsp;
-  <form action="https://andre-a-fernandes.github.io/files/CV_EN" method="get" target="_blank">
-    <button type="button" class="btn btn-primary">English CV</button>
-  </form>
-  -->
-</div>
-     
-      
 Education
 ======
 * **BSc. in Electric and Computer Engineering** - University of Lisbon, 2021
@@ -42,10 +36,3 @@ Work experience
   * Instituto Superior Técnico - University of Lisbon
   * Duties included: Tagging issues
   * Supervisors: Professor João Paulo Costeira and Dr. Manuel Marques
-
-
-<style>
-  div {
-       margin: 2em;
-      }
-</style>
