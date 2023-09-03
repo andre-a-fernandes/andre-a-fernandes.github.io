@@ -17,6 +17,7 @@ profile](https://www.linkedin.com/in/andre-a-fernandes/) over the information on
   <a href="https://andre-a-fernandes.github.io/files/CV_EN" class="btn btn-primary" role="button">English CV</a>
   &emsp; &emsp;
   <a href="https://andre-a-fernandes.github.io/files/CV_PT" class="btn btn-primary" role="button">Portuguese CV (essentially the same document)</a>
+  &emsp;
 </div>
 
 <div>
@@ -27,8 +28,9 @@ profile](https://www.linkedin.com/in/andre-a-fernandes/) over the information on
   </form>
   -->
 </div>
-  
-  
+         
+
+    
 Education
 ======
 * **BSc. in Electric and Computer Engineering** - University of Lisbon, 2021
