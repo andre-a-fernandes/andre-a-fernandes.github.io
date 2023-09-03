@@ -34,7 +34,7 @@ profile](https://www.linkedin.com/in/andre-a-fernandes/) over the information on
   </form>
   -->
 </div>
-
+     
       
 Education
 ======
